@@ -1,6 +1,6 @@
 This is the software half of the solution of Problem statement : 'Passive Colorimetric H2S Exposure-Dosimeter Wristband with AI-Based Quantitative Reading'.
 
-## Why it's structured this way — mapped to the software gaps identified
+## Why it's structured this way 
 
 Gap identified in existing solutions - how we tackle them:
 1. No cumulative dose model (spot-reading only) - `core/calibration.py` — Hill/saturation curve fit on (dose, ΔE) pairs, inverted per reading
