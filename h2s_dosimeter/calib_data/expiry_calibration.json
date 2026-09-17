@@ -1,0 +1,5 @@
+{
+  "_comment": "PLACEHOLDER. deltaE_threshold is the expiry-patch color distance (from fresh) that marks end-of-life. Fit from accelerated-aging trials at your target shelf life (e.g. 90 days at storage temp).",
+  "expiry_deltaE_threshold": 30.0,
+  "shelf_life_days": 90
+}

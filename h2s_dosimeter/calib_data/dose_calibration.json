@@ -1,0 +1,8 @@
+{
+  "_comment": "PLACEHOLDER values. Replace by running CalibrationModel.fit_from_trials() on your controlled lab-exposure data (known ppm x known hours -> photographed deltaE), then overwrite this file with the .to_json() output.",
+  "deltaE_max": 60.0,
+  "K": 220.0,
+  "n": 0.85,
+  "fit_residual_std": 1.8,
+  "dose_unit": "ppm*hr"
+}
